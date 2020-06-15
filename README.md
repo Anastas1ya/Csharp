@@ -1,5 +1,6 @@
 # Quick-Quiz
-taken on konieboy/Quick-Quiz
+taken from konieboy/Quick-Quiz
+Updated ExampleQuiz.json with actual C# related questions.
 
 ![alt tag](https://raw.githubusercontent.com/konieboy/Quick-Quiz/master/Quick%20Quiz/Quiz%20Files/Screenshot.PNG)
 
