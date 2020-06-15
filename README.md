@@ -1,4 +1,5 @@
 # Quick-Quiz
+taken on konieboy/Quick-Quiz
 
 ![alt tag](https://raw.githubusercontent.com/konieboy/Quick-Quiz/master/Quick%20Quiz/Quiz%20Files/Screenshot.PNG)
 
